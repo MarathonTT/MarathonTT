@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarathonTT
+- 👋 Hi, I’m @MarathonTT (Nico)
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning "How to properly communicate" with The Odin Project
+- 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on creating a website for my small business
 - 📫 Email: marathoncourierstt@gmail.com 
 
